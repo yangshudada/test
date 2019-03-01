@@ -1,0 +1,10 @@
+[ 2018-06-30T06:18:49+08:00 ] 106.15.229.102 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-30T15:27:42+08:00 ] 106.11.156.169 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

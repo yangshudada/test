@@ -1,0 +1,304 @@
+<include file="Public/header" />
+
+<!-- Recipe Background -->
+<div class="recipeBackground">
+	<img src="{$arr1['menu_image_jpg']}" alt="" style="width: 100%;height: 250px;"/>
+</div>
+
+
+<!-- Content
+================================================== -->
+<div class="container" itemscope itemtype="http://schema.org/Recipe">
+
+	<!-- Recipe -->
+	<div class="twelve columns">
+	<div class="alignment">
+
+		<!-- Header -->
+		<section class="recipe-header">
+			<div class="title-alignment">
+				<h2>{$arr1['menu_name']}</h2>
+				<div class="rating five-stars">
+					<div class="star-rating"></div>
+					<div class="star-bg"></div>
+				</div>
+				<span><a href="#reviews">累计评价({$arr1['menu_cooking']} 次)</a></span>
+			</div>
+		</section>
+		
+
+		<!-- Slider -->
+		<div class="recipeSlider rsDefault">
+		    <img itemprop="image" class="rsImg" src="{$arr1['menu_image_jpg']}" alt="" style="width: 860px;height: 380px;"/>
+		    <img itemprop="image" class="rsImg" src="{$arr1['menu_image_jpg']}" alt="" style="width: 860px;height: 380px;" />
+		</div>
+
+
+		<!-- Details -->
+		<section class="recipe-details" itemprop="nutrition">
+			<ul>
+				<li>供应人数: <strong itemprop="recipeYield">{$arr1['menu_serves']} 人</strong></li>
+				<li>准备时间: <strong itemprop="prepTime">{$arr1['menu_preptime']} 分钟</strong></li>
+				<li>烹饪时间: <strong itemprop="cookTime">{$arr1['menu_cooking']} 分钟</strong></li>
+				<li>卡路里: <strong itemprop="calories">{$arr1['menu_calories']} 卡路里</strong></li>
+			</ul>
+			<a href="#" class="print"><i class="fa fa-print"></i> Print</a>
+			<div class="clearfix"></div>
+		</section>
+
+
+		<!-- Text -->
+		<p itemprop="description">{$arr1['menu_content']}</p>
+
+
+		<!-- Ingredients -->
+		<h3>配料</h3>
+		<ul class="ingredients">
+			<?php
+			$pl = explode(';',$arr1['menu_ingredients']);
+			?>
+			<foreach name="pl" item="ing">
+			<li>
+				<input id="check-1" type="checkbox" name="check" value="check-1">
+				<label itemprop="ingredients" for="check-1">{$ing}</label>
+			</li>
+            </foreach>
+
+		</ul>
+
+
+		<!-- Directions -->
+		<h3>操作</h3>
+		<ol class="directions" itemprop="recipeInstructions">
+			<?php
+			$ms = explode(';',$arr1['menu_directions']);
+			?>
+			<foreach name="ms" item="dir">
+			<li>{$dir}</li>
+			</foreach>
+		</ol>
+
+
+		<div class="clearfix"></div>
+
+		
+		<!-- Meta -->
+<!--  		<div class="post-meta">
+			By <a href="#" itemprop="author">Sandra Fortin</a>, on
+			<meta itemprop="datePublished" content="2014-30-10">30th November, 2014</meta>
+		</div>  -->
+
+
+		<div class="margin-bottom-40"></div>
+
+
+		<!-- Headline -->
+		<if condition="empty($arr2) neq true">
+ 		<h3 class="headline">您可能也喜欢</h3>
+		<span class="line margin-bottom-35"></span>
+		<div class="clearfix"></div>
+
+		<div class="related-posts">
+		<!-- Recipe #1 -->
+			<foreach name="arr2" item="may">
+			<div class="four recipe-box columns">
+
+				<!-- Thumbnail -->
+				<div class="thumbnail-holder">
+					<a href="{:U('index/recipe')}?id={$may['menu_id']}">
+						<img src="{$may['menu_image_jpg']}" alt=""/>
+						<div class="hover-cover"></div>
+						<div class="hover-icon">查看食谱</div>
+					</a>
+				</div>
+
+				<!-- Content -->
+				<div class="recipe-box-content">
+					<h3><a href="{:U('index/recipe')}?id={$may['menu_id']}">{$may['menu_name']}</a></h3>
+					
+					<div class="rating five-stars">
+						<div class="star-rating"></div>
+						<div class="star-bg"></div>
+					</div>
+
+					<div class="recipe-meta"><i class="fa fa-clock-o"></i> {$may['menu_preptime']}分钟</div>
+
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			</foreach>
+		</div>
+		</if>
+		<div class="clearfix"></div>
+
+
+		<div class="margin-top-15"></div>
+
+
+		<!-- Comments
+		================================================== -->
+		<if condition="empty($review) neq true">
+		<h3 class="headline">评论<span class="comments-amount">(4)</span></h3><span class="line"></span><div class="clearfix"></div>
+		
+			<!-- Reviews -->
+			<section class="comments" id="reviews">
+
+				<ul>
+					<foreach name="review" item="val">
+					<li>
+						<div class="avatar"><img src="__PUBLIC__/images/header/<?php echo rand(1,19);?>.jpg" alt="" /></div>
+						<div class="comment-content"><div class="arrow-comment"></div>
+							<div class="comment-by"><strong>{$val['review_name']}</strong><span class="date">{$val['review_time']}</span>
+								<!--<a href="#" class="reply"><i class="fa fa-reply"></i> Reply</a>-->
+							</div>
+							<p>{$val['review_content']}</p>
+							<div class="rating five-stars">
+								<div class="star-rating"></div>
+								<div class="star-bg"></div>
+							</div>
+						</div>
+
+						<!-- Second Level -->
+						<!--<ul>-->
+							<!--<li>-->
+								<!--<div class="avatar"><img src="" alt="" /></div>-->
+								<!--<div class="comment-content"><div class="arrow-comment"></div>-->
+								<!--<div class="comment-by"><strong>Sandra Fortin</strong><span class="date">7th, October 2014</span>-->
+								<!--<a href="#" class="reply"><i class="fa fa-reply"></i> Reply</a>-->
+								<!--</div>-->
+								<!--<p>Donec porttitor tortor sit amet tortor egestas, id suscipit magna cursus. Nam facilisis, mi vel elementum porttitor, sapien magna posuere lorem, sed consectetur.</p>-->
+								<!--</div>-->
+							<!--</li>-->
+						<!--</ul>-->
+
+					</li>
+                    </foreach>
+				 </ul>
+
+			</section>
+			<div class="clearfix"></div>
+			<br>
+
+        </if>
+		<!-- Add Comment
+		================================================== -->
+
+		<h3 class="headline">添加评论</h3><span class="line margin-bottom-35"></span><div class="clearfix"></div>
+		
+		<!-- Add Comment Form -->
+		<form id="add-review" class="add-comment"  method="post">
+			<fieldset>
+
+				<div>
+					<label>姓名:</label>
+					<input type="text"  name="name"/>
+				</div>
+					
+				<div>
+					<label>邮箱: <span>*</span></label>
+					<input type="text"  name="email"/>
+					<input type="hidden"  name="id" value="{$arr1['menu_id']}">
+				</div>
+
+				<div>
+					<label>星级:</label>
+					<span class="rate">
+						<span class="star"></span>
+						<span class="star"></span>
+						<span class="star"></span>
+						<span class="star"></span>
+						<span class="star"></span>
+					</span>
+				</div>
+				<div class="clearfix"></div>
+
+				<div>
+					<label>内容: <span>*</span></label>
+					<textarea cols="40" rows="3" name="content"></textarea>
+				</div>
+
+			</fieldset>
+
+			<a class="button medium color" id="addReview">添加评论</a>
+			<div class="clearfix"></div>
+
+		</form>
+
+	</div>
+	</div>
+	<script>
+	 //jQuery提交  
+        $("#addReview").click(function(){
+            $("#add-review").submit();  
+        })  
+	</script>
+
+
+<!-- Sidebar
+================================================== -->
+<div class="four columns">
+
+	<!-- Search Form -->
+	<div class="widget search-form">
+		<nav class="search">
+			<form action="#" method="get">
+				<button><i class="fa fa-search"></i></button>
+				<input class="search-field" type="text" placeholder="Search for recipes" value=""/>
+			</form>
+		</nav>
+		<div class="clearfix"></div>
+	</div>
+
+
+	<!-- Author Box -->
+	<div class="widget">
+		<div class="author-box">
+			<span class="title">作者</span>
+			<span class="name">Mr. Yang</span>
+			<span class="contact"><a href="mailto:1156203115@qq.com">1156203115@qq.com</a></span>
+			<img src="__PUBLIC__/images/icon.jpg" alt="">
+			<p>我是Mr. Yang，这是我分享我的东西的地方。我疯狂地爱着食物。您将找到健康食谱，舒适食物和放纵甜点的平衡。</p>
+		</div>
+	</div>
+
+
+	<!-- Popular Recipes -->
+	<if condition="empty($arr3) neq true">
+	<div class="widget">
+		<h4 class="headline">热门食谱</h4>
+		<span class="line margin-bottom-30"></span>
+		<div class="clearfix"></div>
+
+		<foreach name="arr3" item="value">
+		<!-- Recipe #1 -->
+		<a href="{:U('index/recipe')}?id={$value['menu_id']}" class="featured-recipe">
+			<img src="{$value['menu_image_jpg']}" alt="" style="width: 280px;height: 95px;">
+
+			<div class="featured-recipe-content">
+				<h4>{$value['menu_name']}</h4>
+			
+				<div class="rating five-stars">
+					<div class="star-rating"></div>
+					<div class="star-bg"></div>
+				</div>
+			</div>
+			<div class="post-icon"></div>
+		</a>
+		</foreach>
+
+		<div class="clearfix"></div>
+	</div>
+	</if>
+
+</div>
+
+
+</div>
+<!-- Container / End -->
+
+
+</div>
+<!-- Wrapper / End -->
+
+<!-- Footer / End -->
+<include file="Public/footer" /> 

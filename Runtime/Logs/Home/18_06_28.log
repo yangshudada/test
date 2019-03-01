@@ -1,0 +1,60 @@
+[ 2018-06-28T07:29:53+08:00 ] 218.98.26.150 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T07:29:53+08:00 ] 218.98.26.148 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T10:10:31+08:00 ] 47.92.98.236 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T10:27:37+08:00 ] 101.132.131.7 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T10:43:46+08:00 ] 117.135.173.79 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T15:01:18+08:00 ] 218.74.24.237 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T15:01:26+08:00 ] 218.74.24.237 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015623s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015623s ]
+
+[ 2018-06-28T15:01:26+08:00 ] 218.74.24.237 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T15:01:26+08:00 ] 218.74.24.237 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T15:01:37+08:00 ] 218.74.24.237 /layui/index.php/Home/Public/loginout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T15:01:39+08:00 ] 218.74.24.237 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-28T16:32:26+08:00 ] 218.74.24.237 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

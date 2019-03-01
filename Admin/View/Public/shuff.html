@@ -1,0 +1,36 @@
+<div id="homeSlider" class="royalSlider rsDefaultInv">
+
+	<!-- 轮播 -->
+	<foreach name="arr1" item="value">
+	<div class="rsContent">
+		<a class="rsImg" href="{$value['menu_image_jpg']}"></a>
+		<i class="rsTmb">{$value['menu_name']}</i>
+
+		<!-- Slide Caption -->
+		<div class="SlideTitleContainer rsABlock">
+		<div class="CaptionAlignment">
+			<div class="rsSlideTitle tags">
+				<ul>
+					<li>饼</li>
+				</ul>
+				<div class="clearfix"></div>
+			</div>
+
+			<h2 class="rsSlideTitle title"><a href="{:U('index/recipe')}">{$value['menu_name']}
+			</a></h2>
+
+			<div class="rsSlideTitle details">
+				<ul>
+					<li><i class="fa fa-cutlery"></i> {$value['menu_serves']} 份</li>
+					<li><i class="fa fa-clock-o"></i> {$value['menu_cooking']} 分钟</li>
+					<li><i class="fa fa-user"></i> by <a href="#">Sandra Fortin</a></li>
+				</ul>
+			</div>
+
+			<a href="{:U('index/recipe')}?id={$value['menu_id']}" class="rsSlideTitle button">查看食谱</a>
+		</div>
+		</div>
+
+	</div>
+    </foreach>
+</div>

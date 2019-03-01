@@ -1,0 +1,32 @@
+<html>
+<head>
+<link rel="stylesheet" href="__PUBLIC__/Admin/css/lanren.css">
+</head>
+<body>
+<button class="play">拍照</button>
+<div id="status">倒计时</div>
+<div id="webcam"></div>
+
+
+
+
+<div style="position: absolute;top:50%;left:50%;width:100%;transform:translate(-50%,-50%);text-align: center;z-index:1">
+用户:{$arr['user_name']}
+<br/>
+邮箱:{$arr['user_email']}
+<br/>
+	<a href="{:U('bg/person')}">更多>>></a>
+<br/>
+<a href="{:U('login/out')}">退出</a>
+</div>
+<div class="lanren">
+	<ul>
+		<li><img src="__PUBLIC__/Admin/images/main5-pic1.png"></li>
+		<li><img src="__PUBLIC__/Admin/images/main5-pic2.png"></li>
+		<li><img src="__PUBLIC__/Admin/images/main5-pic3.png"> </li>
+	</ul>
+</div>
+</body>
+
+
+</html>

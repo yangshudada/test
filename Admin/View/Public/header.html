@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>个人网站-家常菜</title>
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="__PUBLIC__/Admin/css/style.css">
+    <link rel="stylesheet" href="__PUBLIC__/Admin/css/colors/green.css" id="colors">
+	<script type="text/javascript" src="__PUBLIC__/js/jquery-1.4.4.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+
+    <!-- Header
+    ================================================== -->
+    <header id="header">
+
+        <!-- Container -->
+        <div class="container">
+
+            <!-- Logo / Mobile Menu -->
+            <div class="three columns">
+                <div id="logo">
+                    <h1><a href="{:U('index/index')}"><img src="__PUBLIC__/Admin/images/logo.png" alt="Chow" /></a></h1>
+                </div>
+            </div>
+
+
+            <!-- Navigation
+            ================================================== -->
+            <div class="thirteen columns navigation">
+
+                <nav id="navigation" class="menu nav-collapse">
+                    <ul>
+                        <li>
+						    <a href="{:U('index/index')}" id="current">主页</a></li>
+                        <li>
+                            <a href="{:U('index/indexList')}">菜谱列表</a>
+                        </li>
+					
+
+<!--                         <li><a href="#">食谱</a>
+                            <ul>
+                                <li><a href="{:U('index/browse-recipes')}">Browse Recipes</a></li>
+                                <li><a href="{:U('index/recipe-page-1')}">Recipe Page #1</a></li>
+                                <li><a href="{:U('index/recipe-page-2')}">Recipe Page #2</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="#">网页</a>
+                            <ul>
+                                <li><a href="{:U('index/shortcodes')}">Shortcodes</a></li>
+                                <li><a href="{:U('index/typography')}">Typography</a></li>
+                                <li><a href="{:U('index/contact')}">Contact</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="#">商店</a>
+                            <ul>
+                                <li><a href="{:U('index/shop')}">Shop</a></li>
+                                <li><a href="{:U('index/product-page')}">Product Page</a></li>
+                            </ul>
+                        </li>
+ -->
+                        <li><a href="{:U('index/submitRecipe')}">提交食谱</a></li>
+						<li>
+						    <a href="{:U('login/index')}">登录</a>  
+                        </li>
+                    </ul>
+                </nav>
+
+            </div>
+
+        </div>
+        <!-- Container / End -->
+    </header>

@@ -1,0 +1,238 @@
+<include file="Public/header" />
+
+
+<!-- Titlebar
+================================================== -->
+<section id="titlebar">
+	<!-- Container -->
+	<div class="container">
+
+		<div class="eight columns">
+			<h2>提交食谱</h2>
+		</div>
+
+		<div class="eight columns">
+			<nav id="breadcrumbs">
+				<ul>
+					<li>你的位置:</li>
+					<li><a href="#">主页</a></li>
+					<li>提交食谱</li>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+	<!-- Container / End -->
+</section>
+
+
+
+<!-- Content
+================================================== -->
+<div class="container">
+	<div class="sixteen columns">
+		<div class="submit-recipe-form">
+
+
+			<!-- Recipe Title -->
+			<h4>食谱标题</h4>
+			<nav class="title">
+				<input class="search-field" type="text" placeholder="" value=""/>
+			</nav>
+			<div class="clearfix"></div>
+
+
+			<div class="margin-top-25"></div>
+
+
+			<!-- Choose Category -->
+			<div class="select">
+				<h4>选择类别</h4>
+				<select data-placeholder="Choose Category" class="chosen-select-no-single">
+					<option value="1">All</option>
+					<option value="2">Breakfast</option>
+					<option value="3">Lunch</option>
+					<option value="4">Beverages</option>
+					<option value="5">Appetizers</option>
+					<option value="6">Soups</option>
+					<option value="7">Salads</option>
+					<option value="8">Beef</option>
+					<option value="9">Poultry</option>
+					<option value="10">Pork</option>
+					<option value="11">Seafood</option>
+					<option value="12">Vegetarian</option>
+					<option value="13">Vegetables</option>
+					<option value="14">Desserts</option>
+					<option value="15">Canning / Freezing</option>
+					<option value="16">Breads</option>
+					<option value="17">Holidays</option>
+				</select>
+			</div>
+
+
+			<div class="margin-top-25"></div>
+
+
+			<!-- Short Summary -->
+			<h4>简短摘要</h4>
+			<textarea class="WYSIWYG" name="summary" cols="40" rows="3" id="summary" spellcheck="true"></textarea>
+
+
+			<div class="margin-top-25"></div>
+
+
+			<!-- Upload Photos -->
+			<h4>上传照片</h4>
+
+			<ul class="recipe-gallery">
+				<li>No photos uploaded yet</li>
+			</ul>
+
+			<label class="upload-btn">
+			    <input type="file" multiple />
+			    <i class="fa fa-upload"></i> 上传
+			</label>
+
+
+			<div class="clearfxix"></div>
+			<div class="margin-top-15"></div>
+
+
+			<!-- Ingredients -->
+			<fieldset class="addrecipe-cont" name="ingredients">
+				<h4>配料:</h4>
+
+				<table id="ingredients-sort">
+
+					<tr class="ingredients-cont ing">
+						<td class="icon"><i class="fa fa-arrows"></i></td>
+						<td><input name="ingredient_name" tabindex="5" type="text" placeholder="Name of ingredient" /> </td>
+						<td><input name="ingredient_note" tabindex="6" type="text" placeholder="Notes (quantity, additional info)" /></td>
+						<td class="action"><a title="Delete" class="delete" href="#"><i class="fa fa-remove"></i></a> </td>
+					</tr>
+
+				</table>
+
+				<a href="#" class="button color add_ingredient">添加新成分</a>
+				<a href="#" class="button add_separator">添加分隔符</a>
+			</fieldset>
+
+
+			<div class="margin-top-25"></div>
+
+
+			<!-- Directions -->
+			<h4>路线</h4>
+			<textarea class="WYSIWYG" name="directions" cols="40" rows="3" id="directions" spellcheck="true"></textarea>
+
+
+			<div class="margin-top-25 clearfix"></div>
+
+
+			<!-- Additional Informations -->
+			<h4>其他信息</h4>
+
+			<fieldset class="additional-info">
+				<table>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="4">产量</label></td>
+					<td><input id="4" type="text" /></td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="1">准备时间</label></td>
+					<td><input id="1" type="text" /></td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="2">烹饪时间</label></td>
+					<td><input id="2" type="text" /></td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="4">水平</label></td>
+					<td>
+						<select data-placeholder="Choose Level" class="chosen-select-no-single">
+							<option value="1">&nbsp;</option>
+							<option value="2">Easy</option>
+							<option value="3">Medium</option>
+							<option value="4">Hard</option>
+							<option value="5">Master</option>
+						</select>
+					</td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="5">Alergens</label></td>
+					<td>
+						<select data-placeholder="Choose Alergens" class="chosen-select" multiple>
+							<option value="2">Peanut</option>
+							<option value="3">Tree nuts</option>
+							<option value="4">Milk</option>
+							<option value="5">Egg</option>
+							<option value="6">Wheat</option>
+							<option value="7">Soy</option>
+							<option value="8">Fish</option>
+							<option value="9">Shellfish</option>
+						</select>
+					</td>
+				</tr>
+
+				</table>
+			</fieldset>
+
+
+			<div class="margin-top-25"></div>
+
+
+			<!-- Nutrition Facts -->
+			<h4营养成分</h4>
+
+			<fieldset class="additional-info">
+				<table>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="5">卡路里</label></td>
+					<td><input id="5" type="text" /></td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="6">总碳水化合物</label></td>
+					<td><input id="6" type="text" /></td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="7">总脂肪</label></td>
+					<td><input id="7" type="text" /></td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="8">蛋白</label></td>
+					<td><input id="8" type="text" /></td>
+				</tr>
+
+				<tr class="ingredients-cont">
+					<td class="label"><label for="9">胆固醇</label></td>
+					<td><input id="9" type="text" /></td>
+				</tr>
+
+				</table>
+			</fieldset>
+
+			<div class="margin-top-30"></div>
+			<a href="" class="button color big">提交食谱</a>
+
+		</div>
+	</div>
+</div>
+<!-- Container / End -->
+
+
+<div class="margin-top-50"></div>
+
+</div>
+<!-- Wrapper / End -->
+
+<!-- Footer / End -->
+<include file="Public/footer" />

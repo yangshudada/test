@@ -1,0 +1,12 @@
+[ 2018-07-02T09:44:05+08:00 ] 124.74.245.250 /layui/Upload/folder/2018-05-17/150055301.zip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+ERR: 无法加载模块:Upload
+
+[ 2018-07-02T22:07:42+08:00 ] 117.101.129.247 /layui/Upload/folder/2018-05-17/150055301.zip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Upload
+

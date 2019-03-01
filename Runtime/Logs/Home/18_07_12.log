@@ -1,0 +1,1365 @@
+[ 2018-07-12T09:10:36+08:00 ] 59.36.119.227 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:21:28+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:21:29+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T09:21:33+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:21:33+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:21:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:21:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:21:39+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:22:16+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:22:36+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:22:42+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:23:49+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:23:51+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:23:53+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:24:03+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:24:13+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:24:33+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:24:36+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:24:39+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:24:56+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:25:08+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:25:35+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:25:37+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:25:40+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:25:54+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:26:02+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T09:26:23+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:26:26+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:26:27+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:26:34+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:26:39+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:27:15+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:27:17+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:27:29+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:27:43+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:27:47+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:28:30+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:28:33+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:32:15+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:32:30+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:32:32+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:33:04+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:33:06+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:34:53+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:34:58+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=78
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:35:02+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:35:04+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:35:04+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:35:05+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:35:12+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:35:20+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:35:21+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:35:23+08:00 ] 60.191.95.18 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T09:35:23+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:35:23+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:35:51+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:35:54+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:38:55+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:39:01+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:39:22+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:39:32+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:39:41+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=55
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:39:49+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:39:49+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:40:12+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=68
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:40:27+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:40:30+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:40:42+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:41:32+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:41:47+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:42:15+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:42:17+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:42:58+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:43:01+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:43:04+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=64
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:43:17+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:43:19+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:43:46+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:43:54+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:43:58+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:44:14+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:44:16+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:44:30+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=63
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:44:37+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:44:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:44:45+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=62
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:44:54+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:44:56+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:46:10+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=67
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:46:16+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:46:19+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:46:27+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=66
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:46:34+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:46:36+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:47:17+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:47:23+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=61
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:47:29+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:47:31+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:47:38+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:47:43+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:47:45+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:47:52+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=57
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:48:00+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:48:02+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:48:17+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:48:30+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:48:43+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:48:45+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:50:25+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=57
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:50:30+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:50:33+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:50:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:50:49+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:50:51+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:51:21+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=53
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:51:26+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:51:28+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:54:37+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=54
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:54:44+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:54:46+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:55:19+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=55
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:55:44+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:55:47+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:56:32+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=56
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:56:37+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:56:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:56:51+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:58:20+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=51
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:58:25+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:58:28+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:58:31+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:58:38+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:58:40+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:58:45+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=49
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:59:02+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:59:05+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:59:10+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=48
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:59:19+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:59:22+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:59:31+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=42
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T09:59:36+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:59:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:59:44+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=43
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T09:59:49+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T09:59:51+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:00:29+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:00:40+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:00:42+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:00:47+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:00:51+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:00:53+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:00:57+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:01:10+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:01:13+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:01:17+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:01:22+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:01:25+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:01:35+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=5&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:01:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=41
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:01:43+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:01:46+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=5&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:01:51+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:02:05+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=81
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:02:09+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:02:12+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:05:39+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:05:43+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:09:58+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:16:33+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:16:35+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:17:15+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:17:17+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:18:16+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:19:59+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:20:01+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:20:42+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:21:20+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:22:23+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:24:24+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:24:26+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:24:35+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:24:37+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:27:40+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T10:30:13+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:30:15+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:30:22+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:30:30+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:31:05+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T10:52:13+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:52:15+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:52:19+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:52:29+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T10:52:32+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:52:50+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:52:52+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:54:44+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:57:01+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:57:03+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T10:57:27+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T10:59:19+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T10:59:24+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:01:57+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:02:00+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:04:04+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:04:11+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:04:17+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:04:53+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:04:55+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:04:59+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:05:04+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:10:37+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:13:34+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:13:36+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:13:37+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:14:10+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:14:33+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:15:22+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:15:24+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:15:27+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:15:31+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:16:11+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:16:50+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:16:52+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:16:59+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:17:01+08:00 ] 60.191.95.18 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:17:47+08:00 ] 60.191.95.18 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:18:41+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:18:43+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=1&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:18:56+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=84
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:19:03+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:19:09+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:19:10+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:19:14+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=93
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:19:28+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:19:30+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:19:32+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:19:33+08:00 ] 60.191.95.18 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:19:48+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T11:19:57+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=76
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:20:10+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:20:12+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T11:20:16+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=78
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:20:28+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:20:30+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:20:35+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=79
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:20:45+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:20:47+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:20:55+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=81
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:21:17+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:21:19+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:21:22+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=80
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:21:28+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:21:31+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=2&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:21:33+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:21:37+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html?id=72
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:21:44+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrEdit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T11:21:46+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=3&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T11:21:49+08:00 ] 60.191.95.18 /layui/index.php/Home/Index/vrList.html?page=4&limit=10&company_id=&typeid=&typesid=&space=&style=&color=&vendor=&designer=&order=&pricemin=&pricemax=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T12:45:14+08:00 ] 220.181.108.109 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T15:16:52+08:00 ] 125.119.207.2 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T15:17:32+08:00 ] 125.119.207.2 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T15:17:36+08:00 ] 125.119.207.2 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T17:23:22+08:00 ] 125.122.192.42 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-07-12T17:23:26+08:00 ] 125.122.192.42 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T17:23:29+08:00 ] 125.122.192.42 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T17:23:41+08:00 ] 125.122.192.42 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T17:23:45+08:00 ] 125.122.192.42 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T17:23:46+08:00 ] 125.122.192.42 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T17:23:46+08:00 ] 125.122.192.42 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-12T17:23:48+08:00 ] 125.122.192.42 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-07-12T17:23:49+08:00 ] 125.122.192.42 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T17:23:53+08:00 ] 125.122.192.42 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-07-12T17:23:53+08:00 ] 125.122.192.42 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+

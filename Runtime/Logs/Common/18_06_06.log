@@ -1,0 +1,18 @@
+[ 2018-06-06T15:42:26+08:00 ] 223.104.227.104 /layui/Upload/mumu/folder/2018-06-06/154146106.zip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+
+[ 2018-06-06T15:51:14+08:00 ] 60.186.21.87 /layui/Upload/jiuding/folder/2018-06-06/154622590.zip
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Upload
+
+[ 2018-06-06T16:24:32+08:00 ] 60.186.21.87 /layui/Upload/mumu/folder/2018-06-01/130139275.rar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Upload
+

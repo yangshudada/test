@@ -1,0 +1,2604 @@
+[ 2018-06-01T11:48:04+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+
+[ 2018-06-01T11:53:04+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+
+[ 2018-06-01T11:53:27+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+
+[ 2018-06-01T11:55:52+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE `vr_show` = 1 ORDER BY vr_create_time desc 
+
+[ 2018-06-01T11:57:03+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+
+[ 2018-06-01T11:58:23+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+
+[ 2018-06-01T11:59:22+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+ERR: 1054:Champ 'v.v.status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v.status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+
+[ 2018-06-01T12:00:42+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 1054:Champ 'v.v_status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v_status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+ERR: 1054:Champ 'v.v_status' inconnu dans field list
+ [ SQL语句 ] : SELECT v.vr_id,v.vr_folder,v.vr_create_time,v.v_status FROM t_all_model_vr v INNER JOIN t_all_vr_model_company c on v.vr_company_id=c.company_id INNER JOIN t_all_vr_model_type t on v.vr_typeid=t.id INNER JOIN t_all_vr_model_types ts on v.vr_typesid=ts.id  WHERE v.vr_show = 1 ORDER BY v.vr_create_time desc 
+
+[ 2018-06-01T12:01:01+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:01:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:01:50+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:05:45+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:05:46+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:07:11+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:07:12+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015622s ]
+
+[ 2018-06-01T12:07:45+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:08:08+08:00 ] 220.184.221.203 /layui/index.php/Home/public/appStatusUpdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:36:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015622s ]
+
+[ 2018-06-01T12:36:49+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:36:49+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:37:11+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:39:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:39:49+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:39:49+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:40:04+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:41:09+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:41:10+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:41:10+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:41:24+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:42:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:42:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:42:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:42:45+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:44:52+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:44:53+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:44:53+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:45:09+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:45:29+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:46:39+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:46:46+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:46:49+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:46:52+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:48:04+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:48:39+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:48:39+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:48:39+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:48:41+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:48:52+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:48:58+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:50:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:50:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:50:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:51:10+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:51:11+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:52:08+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:52:08+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:52:54+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:52:54+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:53:27+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:53:27+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:54:12+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:54:12+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:54:37+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:54:38+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:56:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:56:25+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:56:25+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:57:09+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:57:09+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:58:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:58:57+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:58:57+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:59:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T12:59:33+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:01:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015623s ]
+
+[ 2018-06-01T13:01:21+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:01:21+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:01:36+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:01:37+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:07+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:08+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:09+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015622s ]
+
+[ 2018-06-01T13:02:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:21+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:21+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:02:25+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015623s ]
+
+[ 2018-06-01T13:05:02+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:05:13+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:05:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:05:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:05:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:05:34+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:06:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:06:49+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:06:49+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:06:59+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:00+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:00+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:01+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:01+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:01+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:21+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:34+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:34+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:35+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:36+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:37+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:07:38+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015623s ]
+
+[ 2018-06-01T13:08:05+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:08:05+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:08:29+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:08:35+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:08:47+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:08:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:08:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:19+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:31+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:32+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:34+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:35+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:44+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:10:46+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:14:52+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:14:53+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:14:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:14:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:15:10+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:15:11+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:18+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:18+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015622s ]
+
+[ 2018-06-01T13:16:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:41+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:42+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:42+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:52+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:53+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:16:58+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:17:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:17:24+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:18:42+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:18:43+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:18:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:18:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:45+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:46+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:57+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:57+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:58+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:19:58+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:20:15+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:20:15+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:20:15+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:20:28+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:20:29+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:20:38+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:20:38+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:21:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:21:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:21:34+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:21:44+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:21:44+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:03+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:03+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:09+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:32+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:22:48+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:24:18+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:24:18+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:24:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:24:58+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:25:04+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:25:15+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:25:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:25:34+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:10+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:12+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:12+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:51+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:52+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:26:59+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:33:44+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:33:45+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:19+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:32+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:33+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:37+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:37+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:38+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:37:45+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:38:29+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:38:29+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:38:29+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:38:39+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:38:40+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:38:50+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015622s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015622s ]
+
+[ 2018-06-01T13:38:51+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:38:51+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:42:47+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:42:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:42:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:43:39+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:43:39+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:43:56+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:44:25+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:44:29+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:46:50+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:46:51+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:46:51+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:46:58+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:46:58+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:26+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:26+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:29+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:29+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:36+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:36+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:47:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:05+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:06+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015623s ]
+
+[ 2018-06-01T13:50:07+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:14+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:15+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:42+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:42+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:43+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:43+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:50:46+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015623s ]
+
+[ 2018-06-01T13:51:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:51:50+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:51:50+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:52:03+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:52:05+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:55:42+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:55:46+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:56:19+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:56:40+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:56:41+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:56:41+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:56:49+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:56:51+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:57:02+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:57:02+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:57:03+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:57:03+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T13:57:08+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:34+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:34+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:46+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:49+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:52+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:52+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:52+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:07:55+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:09:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:10:08+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:10:08+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:14:20+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:14:21+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:14:21+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:14:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:14:34+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:17:07+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:17:09+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:17:13+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:22:47+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:22:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:22:48+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:23:01+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:23:05+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:23:06+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:33:26+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:33:27+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T14:33:28+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:00:11+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:00:31+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:04:25+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:04:33+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:06:22+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:06:29+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:07:06+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:07:07+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:07:20+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:08:33+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:08:38+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:09:45+08:00 ] 124.89.79.128 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:09:49+08:00 ] 124.89.79.128 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:13:01+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:13:03+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:13:25+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:13:27+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:15:25+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:15:29+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:15:53+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:17:02+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:17:37+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:17:39+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:18:38+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:18:40+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:19:45+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:19:50+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:24:29+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:24:54+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:24:57+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:25:43+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:25:45+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:27:04+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:27:05+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:27:48+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:27:57+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:00+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:04+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:08+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:08+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:11+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:14+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:14+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:21+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:21+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:32+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:34+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:47+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrtypelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:48+08:00 ] 220.184.221.203 /layui/index.php/Home/index/vrTypeList.html?page=1&limit=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:48+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrtypeslist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:48+08:00 ] 220.184.221.203 /layui/index.php/Home/index/vrTypesList.html?page=1&limit=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:28:50+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrTypesAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2018-06-01T15:28:54+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:30:34+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:30:36+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:31:27+08:00 ] 220.184.221.203 /layui/index.php/Home/public/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2018-06-01T15:32:18+08:00 ] 220.184.221.203 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:34:51+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015624s ]
+
+[ 2018-06-01T15:34:54+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:36:31+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:36:33+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:37:05+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:37:08+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:43:38+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:44:57+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:45:05+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:47:04+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:47:12+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:47:59+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:02+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:09+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:23+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:26+08:00 ] 220.184.221.203 /layui/index.php/home/index/vrlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:46+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:50+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:52+08:00 ] 220.184.221.203 /layui/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:54+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:48:55+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:49:02+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:49:02+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:49:14+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2018-06-01T15:49:17+08:00 ] 220.184.221.203 /layui/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:50:08+08:00 ] 220.184.221.203 /layui/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:50:12+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:50:19+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:50:20+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:56:05+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+
+[ 2018-06-01T15:56:06+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T15:56:44+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:03:37+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:03:38+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:03:43+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:11:02+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:11:03+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:11:05+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:15:18+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:15:19+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:16:22+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:16:22+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:17:09+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:17:10+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:17:14+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:22:08+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:22:08+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-06-01T16:22:34+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:22:35+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:22:39+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:24:51+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:24:51+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015624s ]
+
+[ 2018-06-01T16:25:05+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:25:21+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:25:22+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:25:23+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:25:40+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:25:40+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:25:40+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:32:38+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:32:39+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:33:52+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:46:54+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:46:59+08:00 ] 124.89.78.233 /layui/index.php/Home/index/appVrList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:47:19+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:47:33+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appVrType
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015622s ]
+
+[ 2018-06-01T16:47:33+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appVrTypes
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:48:26+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:48:46+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:48:46+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:48:49+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:55:09+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:55:09+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:56:25+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:57:30+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:57:31+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T16:58:55+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:08:08+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:08:09+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:09:50+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:12:07+08:00 ] 220.184.221.203 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:12:07+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:12:12+08:00 ] 220.184.221.203 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:16:24+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:16:24+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:17:35+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:18:59+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:00+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:00+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:06+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:06+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:06+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:12+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015623s ]
+
+[ 2018-06-01T17:19:13+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:35+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:35+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:19:38+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:27:52+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:27:53+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:27:54+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:33:39+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:33:39+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:33:43+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:34:04+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:34:04+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:34:15+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:34:44+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:34:45+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:34:51+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:35:00+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:35:01+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:35:45+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:36:00+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:36:00+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:37:41+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:41:50+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:41:50+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:41:53+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:47:48+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:47:49+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:47:50+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:54:22+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T17:54:23+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:03:56+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:04:47+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:04:57+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:05:28+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:12:31+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:12:32+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:12:39+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:13:01+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:13:02+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:13:05+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:14:09+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:14:09+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:16:02+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:16:03+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:16:27+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:16:28+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:16:42+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:17:12+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:17:12+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:18:03+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:18:03+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:18:06+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015622s ]
+
+[ 2018-06-01T18:19:26+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:19:26+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appStatusAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T18:19:29+08:00 ] 124.89.78.233 /layui/index.php/Home/public/appUploadfolder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T23:43:34+08:00 ] 58.100.187.132 /layui/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-06-01T23:43:39+08:00 ] 58.100.187.132 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-06-01T23:43:44+08:00 ] 58.100.187.132 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T23:43:44+08:00 ] 58.100.187.132 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-06-01T23:43:44+08:00 ] 58.100.187.132 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T23:43:47+08:00 ] 58.100.187.132 /layui/index.php/Home/index/vrTypesList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T23:43:47+08:00 ] 58.100.187.132 /layui/index.php/Home/index/vrTypesList.html?page=1&limit=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-06-01T23:43:49+08:00 ] 58.100.187.132 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-06-01T23:47:40+08:00 ] 114.55.67.68 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-06-01T23:47:43+08:00 ] 114.55.67.68 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-06-01T23:47:48+08:00 ] 114.55.67.68 /layui/index.php/Home/Public/loginb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-06-01T23:47:48+08:00 ] 114.55.67.68 /layui/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T23:47:48+08:00 ] 114.55.67.68 /layui/index.php/Home/index/vrList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-06-01T23:47:59+08:00 ] 114.55.67.68 /layui/index.php/Home/index/vrAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-06-01T23:49:15+08:00 ] 114.55.67.68 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-06-01T23:54:18+08:00 ] 58.100.187.132 /layui/index.php/Home/public/uploadfolder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

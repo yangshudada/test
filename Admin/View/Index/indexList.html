@@ -1,0 +1,121 @@
+<include file="Public/header,Public/shuff" />
+
+
+
+<!-- Content
+================================================== -->
+<div class="container">
+
+	<!-- Masonry -->
+	<div class="twelve columns ">
+
+		<!-- Headline -->
+ 		<h3 class="headline">菜谱列表</h3>
+		<span class="line rb margin-bottom-35"></span>
+		<div class="clearfix"></div>
+
+		<!-- Isotope -->
+		<div class="list-style">
+			<!-- Recipe #1 -->
+			<foreach name="arr2" item="v">
+			<div class="four recipe-box columns">
+
+				<!-- Thumbnail -->
+				<div class="thumbnail-holder">
+					<a href="{:U('index/recipe')}?id={$v['menu_id']}">
+						<img src="{$v['menu_image_jpg']}" alt="" style="width: 235px;height:198px;"/>
+						<div class="hover-cover"></div>
+						<div class="hover-icon">查看食谱</div>
+					</a>
+				</div>
+
+				<!-- Content -->
+				<div class="recipe-box-content">
+					<h3><a href="{:U('index/recipe')}?id={$v['menu_id']}">{$v['menu_name']}</a></h3>
+                    <div style="width:375px;
+		height: 71px;
+		overflow: hidden;">
+					{$v['menu_content']}
+                    </div>
+					<div class="rating five-stars">
+						<div class="star-rating"></div>
+						<div class="star-bg"></div>
+					</div>
+
+					<div class="meta-alignment">
+						<div class="recipe-meta"><i class="fa fa-clock-o"></i>{$v['menu_cooking']} 分钟</div>
+						<div class="recipe-meta"><i class="fa fa-cutlery"></i>{$v['menu_serves']} 人</div>
+					</div>
+
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			</foreach>
+
+		</div>
+
+		<div class="clearfix"></div>
+
+		<!-- Pagination -->
+		<div class="pagination-container masonry">
+			<nav class="pagination">
+				<ul>
+					<li><a href="#" class="current-page">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+				</ul>
+			</nav>
+
+			<nav class="pagination-next-prev">
+				<ul>
+					<li><a href="#" class="prev"></a></li>
+					<li><a href="#" class="next"></a></li>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+
+
+<!-- Sidebar
+================================================== -->
+<div class="four columns">
+
+	<!-- Search Form -->
+	<div class="widget search-form">
+		<nav class="search">
+			<form action="#" method="get">
+				<button><i class="fa fa-search"></i></button>
+				<input class="search-field" type="text" placeholder="Search for recipes" value=""/>
+			</form>
+		</nav>
+		<div class="clearfix"></div>
+	</div>
+
+
+	<!-- Categories -->
+	<div class="widget">
+		<h4 class="headline">分类</h4>
+		<span class="line margin-bottom-20"></span>
+		<div class="clearfix"></div>
+
+		<ul class="categories">
+			<foreach name="arr3" item="val">
+			<li><a href="{:U('index/indexList')}?type={$val['type_id']}">{$val['type_name']}</a></li>
+			</foreach>
+		</ul>
+	</div>
+
+</div>
+
+
+</div>
+<!-- Container / End -->
+
+<div class="margin-top-5"></div>
+
+
+</div>
+<!-- Wrapper / End -->
+
+<include file="Public/footer" />

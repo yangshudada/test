@@ -1,0 +1,1 @@
+a:6:{i:0;s:10:"company_id";i:1;s:12:"company_name";i:2;s:5:"level";i:3;s:15:"company_name_py";s:3:"_pk";s:10:"company_id";s:5:"_type";a:4:{s:10:"company_id";s:7:"int(11)";s:12:"company_name";s:11:"varchar(60)";s:5:"level";s:10:"tinyint(4)";s:15:"company_name_py";s:11:"varchar(60)";}}
