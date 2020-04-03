@@ -26,9 +26,9 @@ return array(
     ),
     //oss配置
     'ALIOSS_CONFIG'         => array(
-        'OSS_ACCESS_ID'        => 'LTAIyuPSXpDFud8R',    // 阿里云oss key_id
-        'OSS_ACCESS_KEY'    => '3tMZURoDlrMb2AzjoJwnRZxR4EYqbY',    // 阿里云oss key_secret
-        'OSS_ENDPOINT'     => 'oss-cn-beijing.aliyuncs.com',    // 阿里云oss endpoint
+        'OSS_ACCESS_ID'        => '',    // 阿里云oss key_id
+        'OSS_ACCESS_KEY'    => '',    // 阿里云oss key_secret
+        'OSS_ENDPOINT'     => '',    // 阿里云oss endpoint
         "OSS_TEST_BUCKET" => 'ceshiing',
         "OSS_WEB_SITE" =>'https://ceshiing.oss-cn-beijing.aliyuncs.com',
     ),
